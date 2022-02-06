@@ -3,7 +3,7 @@ import pkg.module
 
 
 class ModuleTest(unittest.TestCase):
-    def test(self):
+    def test(self) -> None:
         pass
 
 
