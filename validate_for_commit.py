@@ -52,7 +52,7 @@ def run_mypy() -> None:
     print("runing mypy ...")
     with ChangeDirecory("."):
         res = subprocess.run(
-            "python -m mypy src",
+            "mypy src",
             shell=True,
             check=False,
             stdout=sys.stdout,
