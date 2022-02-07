@@ -1,4 +1,4 @@
-#! /usr/env/python
+#!/usr/bin/env python
 
 """
 This script performs the validation of the code base which must be performed before each commit.
