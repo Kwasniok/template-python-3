@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+"""Script to discover and run all unittest."""
+
 import unittest
 
 if __name__ == "__main__":
